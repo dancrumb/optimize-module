@@ -1,0 +1,13 @@
+{
+  "deno.cacheOnSave": true,
+  "deno.enable": true,
+  "deno.inlayHints.parameterTypes.enabled": true,
+  "deno.inlayHints.propertyDeclarationTypes.enabled": true,
+  "deno.inlayHints.variableTypes.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true,
+    "source.fixAll": true
+  },
+  "eslint.enable": false
+}

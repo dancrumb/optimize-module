@@ -1,0 +1,11 @@
+{
+  "tasks": {
+    "dev": "deno run --watch main.ts"
+  },
+  "lint": {
+    "include": ["*.ts"],
+    "rules": {
+      "tags": ["recommended"]
+    }
+  }
+}
